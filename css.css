@@ -1,0 +1,72 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+#stil {
+    border-radius: 10px;
+    background-color: #eeeeee;
+    margin-top: 40px;
+    margin-left:17%;
+    margin-right: 17%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 300px;
+}
+
+#title{
+    font-size: 300%;
+    padding-top: 40px;
+}
+#an {
+    font-size: 150%;
+}
+#quote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-style: italic;
+}
+#line{
+    margin-left: 25%;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    width: 50%;
+    border-radius: 10px;
+    height: 1.2px;
+    background-color: black;
+}
+
+#about{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.photo img{
+    border-radius: 100%;
+}
+.photo h1{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 100;
+}
+.photo{
+    margin-bottom: 100px;
+}
+
+#curse {
+    text-align: left;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#curse h1{
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: italic;
+}
+#stil  cite h2{
+    padding-top: 20px;
+    font-weight: normal;
+    font-size: 120%;
+}
